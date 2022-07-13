@@ -9,11 +9,9 @@ namespace Book.Ch01
     internal class P78
     {
         static void Main(string[] args)
-{
-    int a = 2147483640;
-    int b = 52273;
-
-     Console.WriteLine(a + b);
-}
+        {
+            string input = Console.ReadLine();
+            Console.WriteLine("input : " + input )
+        }
     }
 }

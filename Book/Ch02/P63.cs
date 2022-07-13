@@ -10,7 +10,7 @@ namespace Book.Ch01
     {
         static void Main1(string[] args)
         {
-
+            Console.WriteLine(52);
 
 
         }

@@ -9,11 +9,18 @@ namespace Book.Ch01
     internal class P78
     {
         static void Main(string[] args)
-{
-    int a = 2147483640;
-    int b = 52273;
+        {
+            var number = 10.2;
+            number = "변경"
+        }
 
-     Console.WriteLine(a + b);
-}
+        static void Main(string[] args)
+        {
+            var local = 273; 
+
+        }
+
+
     }
+
 }

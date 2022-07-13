@@ -10,6 +10,15 @@ namespace Book.Ch01
     {
         static void Main2(string[] args)
         {
+            Console.Write("Write");
+            Console.WriteLine("WriteLine");
+            
+            Console.WriteLine("WriteLine");
+            Console.WriteLine("WriteLine");
+
+
+            Console.WriteLine("Write);
+            Console.WriteLine("Write);
 
         }
     }

@@ -8,5 +8,13 @@ namespace Book.Ch01
 {
     internal class P78
     {
+        static void Main(string[] args)
+{
+    char a = 'a';
+
+            Console.WriteLine(a);
+
+
+}
     }
 }

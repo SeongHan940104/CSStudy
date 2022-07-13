@@ -8,5 +8,10 @@ namespace Book.Ch01
 {
     internal class P65
     {
+        static void Main(string[] args)
+{
+         Console.WriteLine(10 % 5);
+            Console.WriteLine(7 % 3);
+}
     }
 }

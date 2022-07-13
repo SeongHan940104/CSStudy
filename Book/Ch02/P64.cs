@@ -10,7 +10,8 @@ namespace Book.Ch01
     {
         static void Main(string[] args)
         {
-                
+                //결과를 예측해 봅시다.
+                Console.WriteLine(5 + 3 * 2);
         }
     }
 }
